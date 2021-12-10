@@ -1,0 +1,9 @@
+scipy
+numpy
+scikit-learn
+scikit-image
+matplotlib
+ipykernel
+nbconvert
+seaborn
+pandas
