@@ -8,7 +8,7 @@ If you want to run the notebook yourself, remember to install the dependencies w
 
 
 
-## Lab2 [notebook](lab1/ISAT_lab1-AlexandreBourquelot_IlanGuenet.ipynb)
+## Lab1 [notebook](lab1/ISAT_lab1-AlexandreBourquelot_IlanGuenet.ipynb)
 
 Passive (optical) very high resolution (VHR) satellites are equipped with two sensors acquiring two images of complementary characteristics.
 
